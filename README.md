@@ -39,7 +39,7 @@
   <img src = "assets/Screenshot-mobile.jpg" width = "75%">
 </p>
 
-Challenge was to create a my team page following the design given in website. The page should be responsive.
+Challenge was to create ***my team page*** following the design given in website. The page should be responsive.
 
 ### Built With
 
